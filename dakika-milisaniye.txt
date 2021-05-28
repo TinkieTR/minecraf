@@ -1,0 +1,10 @@
+Botlarda Süre olarak milisaniye kullanılır.
+1 Dakika = 60000 Milisaniye	10 Dakika = 600000 Milisaniye	2500 Dakika = 150000000 Milisaniye
+2 Dakika = 120000 Milisaniye	20 Dakika = 1200000 Milisaniye	5000 Dakika = 300000000 Milisaniye
+3 Dakika = 180000 Milisaniye	30 Dakika = 1800000 Milisaniye	10000 Dakika = 600000000 Milisaniye
+4 Dakika = 240000 Milisaniye	40 Dakika = 2400000 Milisaniye	25000 Dakika = 1500000000 Milisaniye
+5 Dakika = 300000 Milisaniye	50 Dakika = 3000000 Milisaniye	50000 Dakika = 3000000000 Milisaniye
+6 Dakika = 360000 Milisaniye	100 Dakika = 6000000 Milisaniye	100000 Dakika = 6000000000 Milisaniye
+7 Dakika = 420000 Milisaniye	250 Dakika = 15000000 Milisaniye	250000 Dakika = 15000000000 Milisaniye
+8 Dakika = 480000 Milisaniye	500 Dakika = 30000000 Milisaniye	500000 Dakika = 30000000000 Milisaniye
+9 Dakika = 540000 Milisaniye	1000 Dakika = 60000000 Milisaniye	1000000 Dakika = 60000000000 Milisaniye
